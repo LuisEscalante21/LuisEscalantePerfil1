@@ -185,7 +185,7 @@ body {
 }
 
 .services-content h2 {
-    font-size: 55px;
+    font-size: 50px;
     line-height: 70px;
     color: #f9fafc;
     text-transform: uppercase;
@@ -420,4 +420,25 @@ p {
         flex-direction: column;
         text-align: center;
     }
+}
+
+.viper1-1 {
+    margin-bottom: 20px; 
+}
+
+.viper1-image {
+    text-align: center;
+    margin-bottom: 10px; 
+}
+
+.viper1-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.viper1-image img {
+    width: 150px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
 }
