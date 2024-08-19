@@ -442,3 +442,18 @@ p {
     display: block; 
     margin: 0 auto; 
 }
+
+.blog-1 {
+    margin-bottom: 20px;
+}
+.blog-1 img {
+    display: block;
+    width: 100%; 
+    height: auto; 
+}
+.blog-1 h3 {
+    margin-top: 10px;
+}
+.blog-1 p {
+    margin-top: 5px;
+}
